@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1718064119 source:c:\users\medardkruger\desktop\reserve\reservationnew\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"functions.h"
+
+1717753249 c:\users\medardkruger\desktop\reserve\reservationnew\functions.h
+
+1718057463 source:c:\users\medardkruger\desktop\reserve\reservationnew\main.c
+	"functions.h"
+
+1718274868 source:c:\users\patrick mudeda\desktop\nouveau dossier\reservationdebus\reservationnew\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"functions.h"
+
+1718274869 c:\users\patrick mudeda\desktop\nouveau dossier\reservationdebus\reservationnew\functions.h
+
+1718274869 source:c:\users\patrick mudeda\desktop\nouveau dossier\reservationdebus\reservationnew\main.c
+	"functions.h"
+
+1718274868 source:c:\users\patrick mudeda\desktop\reservation projet c\reservationdebus\reservationnew\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"functions.h"
+
+1718274869 c:\users\patrick mudeda\desktop\reservation projet c\reservationdebus\reservationnew\functions.h
+
+1718274869 source:c:\users\patrick mudeda\desktop\reservation projet c\reservationdebus\reservationnew\main.c
+	"functions.h"
+

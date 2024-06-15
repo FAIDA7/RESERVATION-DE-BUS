@@ -1,0 +1,22 @@
+
+Passenger: medard, Bus ID: 1, Seat: 1, Operator: 1
+Passenger: medard, Bus ID: 1, Seat: 1, Operator: 1
+Passenger: medard, Bus ID: 1, Seat: 1, Operator: 2
+Passenger: dee, Bus ID: 1, Seat: 1, Operator: 2
+Passenger: deed, Bus ID: 1, Seat: 1, Operator: 1
+Passenger: 1, Bus ID: 1, Seat: 1, Operator: 1
+Passenger: de, Bus ID: 1, Seat: 1, Operator: 1
+Passenger: medard, Bus ID: 1, Seat: 1, Operator: 1
+Passenger: lulu, Bus ID: 1, Seat: 1, Operator: 1
+Passenger: medas—, Bus ID: 1, Seat: 23, Operator: 1
+Passenger: kdekded, Bus ID: 1, Seat: 34, Operator: 1
+Passenger: 1, Bus ID: 1, Seat: 1, Operator: 1
+Passenger: ldmede, Bus ID: 2, Seat: 32, Operator: 1
+Passenger: ldee, Bus ID: 2, Seat: 34, Operator: 1
+Passenger: kdled, Bus ID: 1, Seat: 34, Operator: 1
+Passenger: kuku, Bus ID: 1, Seat: 5, Operator: 1
+Passenger: FEFF, Bus ID: 1, Seat: 34, Operator: 2
+Passenger: mugoli, Bus ID: 1, Seat: 34, Operator: 3
+Passenger: guemalie, Bus ID: 2, Seat: 2, Operator: 2
+Passenger: ruth, Bus ID: 4, Seat: 34, Operator: 2
+Passenger: getu, Bus ID: 4, Seat: 7, Operator: 3
